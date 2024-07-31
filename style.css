@@ -1,0 +1,24 @@
+body{
+    margin: 0;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #207ab2;
+    color: rgb(255, 255, 255);
+}
+h1{
+    text-align: center;
+    background-color: rgb(128, 240, 173);
+    color: blueviolet;
+}
+h2{
+    text-align: center;
+    background-color: lightpink;
+    color: blueviolet;
+}
+.center{
+    display: inline-block;
+}
